@@ -3,11 +3,11 @@ body {
 }
 button {
     padding: 1vw;
-    font-size: large;
+    font-size: 12pt;
 }
 
 .cpDisplay {
-    font-size: large;
+    font-size: 15pt;
 }
 #addButton {
     background-color: green;
