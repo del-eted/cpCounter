@@ -1,11 +1,18 @@
 body {
     text-align: center;
 }
+button {
+    padding: 1vw;
+    font-size: large;
+}
 
+.cpDisplay {
+    font-size: large;
+}
 #addButton {
     background-color: green;
     color: white;
-    border: none
+    border: none;
 }
 #subtractButton {
     background-color: red;
