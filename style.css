@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+#addButton {
+    background-color: green;
+    color: white;
+    border: none
+}
+#subtractButton {
+    background-color: red;
+    border: none;
+    color: white; 
+}
